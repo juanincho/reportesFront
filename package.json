@@ -8,6 +8,8 @@
     "@mui/material": "^6.4.4",
     "@mui/x-data-grid": "^7.26.0",
     "@syncfusion/ej2-react-pivotview": "^28.2.4",
+    "ag-grid-enterprise": "^33.1.0",
+    "ag-grid-react": "^33.1.0",
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
     "pivottable": "^2.23.0",
