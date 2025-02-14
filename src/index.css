@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import "@webdatarocks/webdatarocks/webdatarocks.css";
 
 body {
   margin: 0;
